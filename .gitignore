@@ -32,6 +32,7 @@ __pycache__/
 *.pyd
 *.sqlite3
 .env
+venv/
 
 # FastAPI migrations (se usar alembic)
 migrations/
